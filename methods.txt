@@ -1,0 +1,7 @@
+{
+"username": "facundo1990",
+"password": "abc123",
+"first_name" "Facundo",
+"last_name": "Morel",
+"Age": 32
+}
